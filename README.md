@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 
 My name is Emerson and I'm Computer engineering student.
 
- - 🧡 In love with JavaScript
- - 🌱 Currently learning ReactJS, React Native and Node.js
- - 😄 Also, I'm a volunteer at CT Junior as a technology consultant 
